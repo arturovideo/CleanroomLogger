@@ -1,0 +1,22 @@
+{
+  "authors": "emaloney, Andriy Katkov",
+  "description": "CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant.",
+  "homepage": "https://github.com/arturovideo/CleanroomLogger",
+  "license": {
+    "text": "Copyright (c) 2009-2015 Gilt Groupe, Inc.",
+    "type": "MIT"
+  },
+  "name": "CleanroomLogger",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.11"
+  },
+  "source": {
+    "git": "https://github.com/arturovideo/CleanroomLogger.git",
+    "tag": "7.0.0"
+  },
+  "swift_version": "4.1",
+  "summary": "CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant",
+  "version": "7.0.0",
+  "source_files": "Sources/**/*"
+}
