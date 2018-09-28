@@ -18,5 +18,5 @@
   "swift_version": "4.1",
   "summary": "CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant",
   "version": "7.0.0",
-  "source_files": "Sources/**/*"
+  "source_files": "Sources/*.swift"
 }
